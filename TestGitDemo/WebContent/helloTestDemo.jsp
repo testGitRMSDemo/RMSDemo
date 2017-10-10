@@ -11,6 +11,7 @@
    <li>Apple is red in  color</li>
    <li>Peach is a juicy fruit</li>
    <li>Banana is a wholesome  fruit</li>
+   <li>Watermelons are big</li>
   </ul>
 
 </body>
