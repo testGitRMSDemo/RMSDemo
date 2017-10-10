@@ -13,6 +13,7 @@
    <li>Banana is a wholesome  fruit</li>
    <li>Mangoes are yellow</li>
    <li>Mangoes can be green too</li>
+   <li><marquee>This message should be moving</marquee></li>
   </ul>
 
 </body>
